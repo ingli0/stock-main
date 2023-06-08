@@ -1,4 +1,5 @@
 # Electronic Store Management Software
+![image](https://github.com/ingli0/stock-main/assets/76855285/ba9f4041-96a1-4a31-bed4-67fe9b7c4025)
 
 ## Description
 
@@ -11,6 +12,7 @@ The Electronic Store Management Software is an integrated system designed to str
 - [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
+![image](https://github.com/ingli0/stock-main/assets/76855285/dd8812cb-f067-4d0d-8c6b-cbe667979e8a)
 
 ## Usage
 
@@ -39,6 +41,7 @@ The Electronic Store Management Software offers the following features:
 - Credit document issuance and management.
 - Supplier database with contact information and communication methods.
 - Integration with supplier websites for real-time price updates.
+![image](https://github.com/ingli0/stock-main/assets/76855285/a81d1790-e26d-463c-8123-5357e5463830)
 
 ## Configuration
 
