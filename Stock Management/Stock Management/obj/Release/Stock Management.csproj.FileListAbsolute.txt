@@ -1,0 +1,42 @@
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Stock Management.exe.config
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Stock Management.exe.manifest
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Stock Management.application
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Stock Management.exe
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Stock Management.pdb
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Aspose.PDF.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\EntityFramework.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Microsoft.Data.Sqlite.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Buffers.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Data.SQLite.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Memory.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Numerics.Vectors.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Aspose.PDF.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\EntityFramework.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\Microsoft.Data.Sqlite.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Buffers.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Data.SQLite.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Memory.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Numerics.Vectors.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.csproj.AssemblyReference.cache
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.BestSeller.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.Customers.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.employeeStockMain.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.Login.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.Products.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.Properties.Resources.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.Providers.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock_Management.adminStockMain.resources
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.csproj.GenerateResource.cache
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.csproj.CoreCompileInputs.cache
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.exe.manifest
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.application
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.csproj.CopyComplete
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.exe
+C:\Users\pao36\Desktop\Stock-Main-App-Store-With-Database-main\Stock Management\Stock Management\obj\Release\Stock Management.pdb
